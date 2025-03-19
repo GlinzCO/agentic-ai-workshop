@@ -58,7 +58,7 @@ def main():
         unsafe_allow_html=True,
     )
 
-    st.title("📞 Customer Support Assistant")
+    st.title("Trust Assistant")
     st.subheader("Get instant answers to your questions!")
 
     # Initialize session state for messages
